@@ -65,11 +65,12 @@ The dataset includes various features such as:
    git clone https://github.com/JaiveerSahni/Titanic-EDA.git
    
 2.Open the notebook in Jupyter Notebook or Google Colab.
+
 3.Run all cells to reproduce the analysis.
 
 ## 👤 Author
 Jaiveer Singh Sahni
-📧 LinkedIn
+
 
 
 
